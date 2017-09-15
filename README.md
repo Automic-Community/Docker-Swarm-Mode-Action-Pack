@@ -25,6 +25,14 @@ Documenation and Instructions
 <li>A Docker swarm cluster installed and running&nbsp;</li>
 <li>Connectivity between the agent and the swarm cluster</li>
 </ul>
+<p><strong>Create Service <br /></strong></p>
+<p>This action will create a new service from a specified image in a Docker swarm mode cluster.</p>
+<p><strong>Update Service</strong></p>
+<p>This action will update an existing service in a Docker swarm mode cluster.</p>
+<p><strong>Scale Service</strong></p>
+<p>This action will scale an existing replicated mode service in a Docker swarm mode cluster.</p>
+<p><strong>Remove Service</strong></p>
+<p>This action will remove a service from a Docker swarm mode cluster.</p>
 
 Copyright and License
 ---
